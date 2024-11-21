@@ -3,4 +3,5 @@ region: us-east-1
 yamlVersion: 2
 
 frontend:
-  path: ./
+  path: .
+  subdomain: peach-elaborate-cat
