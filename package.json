@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "build": "^0.1.4",
     "http-server": "^14.1.1",
     "npx": "^10.2.2"
   }
